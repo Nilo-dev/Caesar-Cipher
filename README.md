@@ -1,6 +1,6 @@
 # Caesar Cipher
 
-![Static Badge](https://img.shields.io/badge/3.3.1-Ruby-CC342D) ![Static Badge](https://img.shields.io/badge/3.13-RSpec-f53e5c)
+![Static Badge](https://img.shields.io/badge/Ruby-3.3.1-282828?style=flat&logo=ruby&logoColor=282828&labelColor=CC342D) ![Static Badge](https://img.shields.io/badge/RSpec-3.13-282828?style=flat&logo=rubygems&logoColor=282828&labelColor=f53e5c)
 
 #### _Assignment_ 
 From Wikipedia:
